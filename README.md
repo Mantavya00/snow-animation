@@ -1,1 +1,1 @@
-# snow-animation
+# SnowAnimation
